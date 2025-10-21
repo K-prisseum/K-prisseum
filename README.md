@@ -1,3 +1,6 @@
-## Hi there 👋
+![banner](banner.gif)
 
-💻 Versatile IT Developer and Technician 💻
+<p align="center"> 💻 Versatile IT Developer and Support Technician 💻 </p>
+<p align="center"> 🎨 Graphist | UI - UX Designer | Beatmaker 🎼 </p>
+
+<h2 align="center">🌐 <a href="https://issad.eu">issad.eu</a> 🌐</h2>
